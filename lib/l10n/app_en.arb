@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appTitle": "Lab 7 - Localization",
+  "searchHint": "Search city...",
+  "temperature": "Temperature",
+  "windSpeed": "Wind Speed",
+  "refresh": "Pull down to refresh",
+  "startTyping": "Start typing to search",
+  "liked": "You liked",
+  "unliked": "You unliked"
+}
