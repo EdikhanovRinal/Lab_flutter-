@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Едиханов Риналь Рафаэлевич— ПДО-36'),
+      home: const MyHomePage(title: 'омар эль абуди— ПДО-36'),
     );
   }
 }
@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: Text('Едиханов Риналь Рафаэлевич— ПДО-36'),
+        title: Text('омар эль абуди— ПДО-36'),
       ),
       body: Center(
         child: Column(
