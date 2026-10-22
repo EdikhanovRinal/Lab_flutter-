@@ -38,7 +38,7 @@ void main() async {
     print(task);
   }
 
-  String myName = 'omar';
+  String myName = 'Едиханов Риналь Рафаэлевич';
   print('\n--- Testing Extension ---');
   print('Original: $myName, Formatted: ${myName.capitalizeFirstLetter()}');
 
